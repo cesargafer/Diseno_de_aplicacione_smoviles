@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976958589695",
+    "project_id": "catalogo-peliculas-ea143",
+    "storage_bucket": "catalogo-peliculas-ea143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976958589695:android:e213bc55c86ab411bbdaca",
+        "android_client_info": {
+          "package_name": "com.example.catalogo_peliculas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976958589695-b11f12msaqef1pofr2nd20i7e8ctk4ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWKj9s4O5bWPfp-QnALAyuxGPhNgriRQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976958589695-b11f12msaqef1pofr2nd20i7e8ctk4ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

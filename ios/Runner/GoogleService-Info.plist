@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>976958589695-gciu1c6sn671lejfdm4op0vq2gdjqrv5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.976958589695-gciu1c6sn671lejfdm4op0vq2gdjqrv5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxGVQrFN61sf0pWLkJsL8B0fyHlqUssBM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>976958589695</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.catalogoPeliculas</string>
+	<key>PROJECT_ID</key>
+	<string>catalogo-peliculas-ea143</string>
+	<key>STORAGE_BUCKET</key>
+	<string>catalogo-peliculas-ea143.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:976958589695:ios:c08a9d8012bb3015bbdaca</string>
+	<key>DATABASE_URL</key>
+	<string>https://catalogo-peliculas-ea143-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
